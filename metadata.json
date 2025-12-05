@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Women Safety",
+  "description": "A comprehensive personal security application for women featuring a quick-access panic button, AI-powered safety advice, location tracking, and emergency tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
